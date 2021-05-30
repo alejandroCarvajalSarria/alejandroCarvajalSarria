@@ -1,0 +1,4 @@
+- 👋 Hi, my name is Alejandro Carvajal Sarria.
+- 👀 I’m interested in Frontend Web Developing.
+- 🌱 I’m currently enrolled in a Full Stack Development course. 
+- 📫 How to reach me: programmeralek@gmail.com

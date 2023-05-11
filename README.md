@@ -1,5 +1,4 @@
 - 👋 Hi, my name is Alejandro Carvajal Sarria.
-- 👀 I’m interested in Frontend Web Developing.
-- 💼 I’m currently working as an Angular Frontend web developer.
-- 🌱 I’m currently enrolled in a Full Stack Development course. 
+- 👀 I’m interested in Software Engineering.
+- 💼 I’m currently working as an Software Engineer @Fiserv. 
 - 📫 How to reach me: programmeralek@gmail.com
